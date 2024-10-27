@@ -47,7 +47,7 @@ What was the total numbers of persons that had unmet health care needs in Canada
 
 <img src="images/year.png" width="35%" alt="images">
 
-What was the percentage of people with health needs unsatisfied by province in 2022?
+What was the percentage of people with health needs unsatisfied by province in 2018?
 
 <img src="images/province.png" width="35%" alt="images">
 
