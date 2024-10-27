@@ -45,17 +45,17 @@ The analysis includes answers to questions such as:
 
 What was the total numbers of persons that had unmet health care needs in Canada?
 
-<img src="images/year.png" width="50%" alt="images">
+<img src="images/year.png" width="35%" alt="images">
 
 What was the percentage of people with health needs unsatisfied by province in 2022?
 
-<img src="images/province.png" width="50%" alt="images">
+<img src="images/province.png" width="35%" alt="images">
 
 ### 3. Data Visualization
 
-Dashboard Tableau
+Excel Dashboard
 
-images
+<img src="images/dashboard.png" width="75%" alt="images">
 
 ### 4. Insights and Findings
 
