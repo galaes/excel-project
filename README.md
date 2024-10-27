@@ -59,7 +59,6 @@ Excel Dashboard
 
 ### 4. Insights and Findings
 
-- The highest peaks of total worldwide layoffs between March 2020 and March 2023 were in November 2022, with 53,451, and in January 2023, with 84,714.
-- The consumer industry was the hardest hit for the period under study, with 45,182 layoffs, followed by the retail sector with 43,613 layoffs.
-Amazon, Google, and Meta were the top three companies with the most layoffs globally, with 18, 150, 12,000, and 11,000, respectively.
-- This explains why the United States has the highest number of layoffs in the world, with 256,059 total layoffs between March 2020 and 2023.
+- Among the total population in Canada, the health care needs insatisfied has been increased since 2018. In 2022 the amount of thousand of people who had unmet health care needs was 5906 and of that quantity, 57.1% corresponds to females and 42.9% to males.
+- Of the ten provinces in Canada, Ontario had the most quantity of people with health care unsatisfied with 36.36% of the total. It is following by Quebec with 21.39%, and British Columbia with 16.55%.
+- Between the  
