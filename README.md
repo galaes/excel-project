@@ -45,7 +45,7 @@ The analysis includes answers to questions such as:
 
 What was the total number of persons with unmet healthcare needs in Canada?
 
-<img src="images/year.png" width="35%" alt="images">
+<img src="images/year1.png" width="35%" alt="images">
 
 What was the percentage of people with health needs unsatisfied by province in 2018?
 
@@ -55,7 +55,7 @@ What was the percentage of people with health needs unsatisfied by province in 2
 
 Excel Dashboard
 
-<img src="images/dashboard.png" width="75%" alt="images">
+<img src="images/dashboard1.png" width="75%" alt="images">
 
 ### 4. Insights and Findings
 
