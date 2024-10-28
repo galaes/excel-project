@@ -61,4 +61,4 @@ Excel Dashboard
 
 - Among the total population in Canada, the health care needs insatisfied has been increased since 2018. In 2022 the amount of thousand of people who had unmet health care needs was 5906 and of that quantity, 57.1% corresponds to females and 42.9% to males.
 - Of the ten provinces in Canada, Ontario had the most quantity of people with health care unsatisfied with 36.36% of the total. It is following by Quebec with 21.39%, and British Columbia with 16.55%.
-- Between the  
+- Between the age ranges of the Canadian population, the 25 to 34 bracket had the most quantity of people with unmet health care needs. Again, the female population leaded this bracket. 
