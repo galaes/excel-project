@@ -1,4 +1,4 @@
-# Descriptive Analysis of Unmet Health Care Needs
+# Descriptive Analysis of Unmet Healthcare Needs
 
 ## Table of Contents
   - [Objective](#objective)
