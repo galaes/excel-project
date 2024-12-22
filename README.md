@@ -36,8 +36,8 @@ The dataset from Statistics Canada: Table 13-10-0836-01  Unmet health care needs
 
 The data cleaning includes:
 
-Data loading and inspection
-Standardizing the structure of the data.
+- Data loading and inspection
+- Standardizing the structure of the data.
 
 ### 2. Descriptive Analysis
 
